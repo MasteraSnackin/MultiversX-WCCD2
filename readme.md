@@ -89,10 +89,6 @@ Submit a pull request with a detailed description of your changes.
 Contact
 For questions, feedback, or support, please reach out to your-email@example.com.
 
-Thank you for using the MultiversX Token Issuer! We hope this tool helps streamline your token issuance on the MultiversX blockchain.
-
-Copy
-
 ### Key Additions:
 
 - **Table of Contents**: Provides quick navigation to different sections of the README.
